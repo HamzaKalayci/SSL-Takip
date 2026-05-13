@@ -19,7 +19,7 @@ public class DomainCheckService
 
         try
         {
-            // Önce standart WHOIS kütüphanesiyle dene
+            
             var response = await _whois.LookupAsync(domain);
             if (response?.Expiration != null)
             {
@@ -28,7 +28,7 @@ public class DomainCheckService
                 return result;
             }
 
-            // .com.tr gibi domainler için manuel WHOIS sorgusu
+        
             var whoisServer = domain.EndsWith(".tr") ? "whois.nic.tr" : "whois.verisign-grs.com";
             var rawWhois = await QueryWhoisServerAsync(whoisServer, domain);
             var expireDate = ParseExpireDate(rawWhois);
