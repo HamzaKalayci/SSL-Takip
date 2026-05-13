@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "pGHwKxbXdxc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kalay\\Downloads\\SslDomainTakip\\SslDomainTakip\\SslDomainTakip\\SslDomainTakip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kalay\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\kalay\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\kalay\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\kalay\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "C:\\Users\\kalay\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\8.0.0\\microsoft.extensions.configuration.fileextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\kalay\\.nuget\\packages\\microsoft.extensions.configuration.json\\8.0.0\\microsoft.extensions.configuration.json.8.0.0.nupkg.sha512",
+    "C:\\Users\\kalay\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\kalay\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\kalay\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\8.0.0\\microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
+    "C:\\Users\\kalay\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\8.0.0\\microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "C:\\Users\\kalay\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\kalay\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\kalay\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\kalay\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512",
+    "C:\\Users\\kalay\\.nuget\\packages\\telegram.bot\\22.0.0\\telegram.bot.22.0.0.nupkg.sha512",
+    "C:\\Users\\kalay\\.nuget\\packages\\tokenizer\\2.2.2\\tokenizer.2.2.2.nupkg.sha512",
+    "C:\\Users\\kalay\\.nuget\\packages\\whois\\3.0.1\\whois.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
